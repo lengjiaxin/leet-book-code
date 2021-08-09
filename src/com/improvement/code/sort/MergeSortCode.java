@@ -1,4 +1,4 @@
-package com.improvement.code;
+package com.improvement.code.sort;
 
 /**
  * @ProjectName: leetBookCode
